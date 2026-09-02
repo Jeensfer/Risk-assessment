@@ -1,4 +1,4 @@
-# Risk-assessment
+<img width="1486" height="272" alt="image" src="https://github.com/user-attachments/assets/772311c0-80a3-4d52-905c-aa6fb620a131" /># Risk-assessment
 
 # EXPERIMENT 4
 
@@ -47,7 +47,7 @@ To identify storage assets in **AWS S3**, identify possible vulnerabilities and 
    - AWS Region
    - Number/type of objects
 
-<img width="1918" height="638" alt="image" src="https://github.com/user-attachments/assets/fc1b0723-515f-445e-97fc-136ce8fb66ea" />
+<img width="1919" height="604" alt="image" src="https://github.com/user-attachments/assets/688906c0-5543-4c65-8f42-3b89fbcf3883" />
 
 
 ---
@@ -63,8 +63,8 @@ To identify storage assets in **AWS S3**, identify possible vulnerabilities and 
 
 - **ON** → Secure configuration
 - **OFF** → Potential public-access risk
-<img width="1919" height="458" alt="image" src="https://github.com/user-attachments/assets/330d1c8f-5600-40cf-9d70-8456a4c20090" />
 
+<img width="1918" height="638" alt="image" src="https://github.com/user-attachments/assets/e4de7602-09ba-4ee8-a5af-9365083be1e7" />
 
 
 ---
@@ -81,7 +81,7 @@ To identify storage assets in **AWS S3**, identify possible vulnerabilities and 
 
 Versioning helps recover previous versions of objects after accidental deletion or modification.
 
-<img width="1756" height="312" alt="image" src="https://github.com/user-attachments/assets/ba2926c9-9b21-40ba-9733-f717e027e4f5" />
+<img width="1919" height="458" alt="image" src="https://github.com/user-attachments/assets/6cf31fec-b3cf-4700-ba04-b1eea58aa848" />
 
 
 
@@ -103,8 +103,7 @@ Versioning helps recover previous versions of objects after accidental deletion 
 
 Encryption protects stored data from unauthorized disclosure.
 
-<img width="1282" height="514" alt="image" src="https://github.com/user-attachments/assets/52690ccc-8db7-47e1-b52d-0dbb9f7b176c" />
-
+<img width="1756" height="312" alt="image" src="https://github.com/user-attachments/assets/ec415d1a-29b6-4932-812f-d30ab5820873" />
 
 
 ---
@@ -122,7 +121,7 @@ Encryption protects stored data from unauthorized disclosure.
 
 > **Note:** A missing bucket policy is not automatically a vulnerability. Access may be controlled through IAM and other AWS security mechanisms.
 
-<img width="1919" height="924" alt="image" src="https://github.com/user-attachments/assets/825ca11f-6622-4dfa-91ef-2ce584a7a6a8" />
+<img width="1282" height="514" alt="image" src="https://github.com/user-attachments/assets/ff0bd73a-09d6-4774-840f-81994b7a45c7" />
 
 
 
@@ -143,7 +142,7 @@ This means:
 - Objects are owned by the bucket owner.
 - Access is controlled using policies.
 
-<img width="1919" height="924" alt="image" src="https://github.com/user-attachments/assets/3403fb4f-b672-44a9-9801-e3d16170b3c4" />
+<img width="1919" height="924" alt="image" src="https://github.com/user-attachments/assets/f6c40e5d-c7df-4e49-8204-390920ad8fd3" />
 
 
 ---
@@ -160,7 +159,8 @@ This means:
 
 Logging helps investigate suspicious or unauthorized access to the bucket.
 
-<img width="1899" height="704" alt="7" src="https://github.com/user-attachments/assets/03824857-841b-4485-a103-9b81dc7ec6cd" />
+<img width="1532" height="540" alt="image" src="https://github.com/user-attachments/assets/76b48117-2b90-4765-98c5-cda988cc0e6c" />
+
 
 
 ---
